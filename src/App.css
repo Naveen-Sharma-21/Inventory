@@ -1,0 +1,18 @@
+/* Add Customer Page CSS */
+.form-container {
+  background-color: rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+/* Add Customer Page CSS */
+.footer {
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+}
+
+/* Layout CSS */
+.main-content {
+  min-height: 90vh;
+}
